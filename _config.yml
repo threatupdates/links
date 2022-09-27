@@ -106,14 +106,14 @@ analytics:
 author:
   name             : "Arav Sharma"
   avatar           : "/images/lsd.jpg"
-  bio              : "Associate Threat Researcher"
+  bio              : "Threat Researcher"
   location         : "United States"
   twitter          : "lsd"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:thr3at1nt3l@protonmail.com
+      url: mailto:arav_intel@threatintel.pw
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/threatupdates"
@@ -125,7 +125,7 @@ footer:
       url: "https://github.com/threatupdates"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/lsd"
+      url: "https://twitter.com/"
 
 
 # Reading Files
